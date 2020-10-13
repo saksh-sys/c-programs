@@ -9,7 +9,7 @@ int main()
         printf("they are equal");
     }
     if (num1 < num2){
-        printf("%d is less than %d",num1,num2);
+        printf("%d is greater than %d",num2,num1);
     }
     if (num1 > num2){
         printf("%d is greater than %d",num1,num2);
